@@ -1,0 +1,16 @@
+{
+	"name": "decache-undefined-pathcache",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"decache": "^4.4.0",
+		"jest": "^23.5.0"
+	}
+}
