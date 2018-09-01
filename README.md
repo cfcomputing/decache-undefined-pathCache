@@ -2,7 +2,7 @@
 When using decache with jest test fails due to lack of module.constructor._pathCache
 ```
 
-![alt text](https://raw.githubusercontent.com/cfcomputing/decache-undefined-pathCache/decache.png)
+![alt text](https://github.com/cfcomputing/decache-undefined-pathCache/blob/master/decache.png)
 
 A default could be added to prevent issues I do not believe there would ever be any significant performance impact as a result and would allow code to function even if future versions of NODEJS the \_pathCache gets removed.
 
